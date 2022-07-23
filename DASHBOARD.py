@@ -11,7 +11,7 @@ from PIL import Image
 from flask import Flask
 
 
-URL_API = "http://localhost:5000/"
+URL_API = "https://p7-application.herokuapp.com/"
 
 def main():
 
